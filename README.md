@@ -8,3 +8,4 @@ Repository untuk sayembara pencarian volunteer pembuatan akun Dicoding. Jika And
 Berikut daftar Volunter yang diterima:
 
 * Oon Arfiandwi, [oo.or.id](https://oo.or.id).
+* Marchelia Naba, [Linkedin](https://www.linkedin.com/in/marchelianaba/).
